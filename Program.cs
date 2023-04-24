@@ -112,7 +112,7 @@ namespace Product
                     else
                     {
                         Console.WriteLine("============================================================");
-                        Console.WriteLine($"Không tìm thấy \"{target}\" test.txt");
+                        Console.WriteLine($"Không tìm thấy \"{target}\" trong test.txt");
                     }
                 }
             }
